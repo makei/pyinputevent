@@ -7,7 +7,7 @@ setup(name='pyinputevent',
       description='Python interface to Linux input subsystem',
       author='Robert Thomson',
       author_email='git@corporatism.org',
-      license="MIT",
+      license="BSD",
       url='http://blog.corporatism.org/blog/2010/02/',
       packages= [ 'pyinputevent' ],
       )
