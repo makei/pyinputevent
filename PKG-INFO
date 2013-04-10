@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: pyinputevent
-Version: 0.1
+Version: 0.1b
 Summary: Python interface to Linux input subsystem
 Home-page: http://blog.corporatism.org/blog/2010/02/
 Author: Robert Thomson

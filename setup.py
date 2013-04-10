@@ -3,7 +3,7 @@
 from distutils.core import setup
 
 setup(name='pyinputevent',
-      version='0.1',
+      version='0.1b',
       description='Python interface to Linux input subsystem',
       author='Robert Thomson',
       author_email='blogcomments.f3c1@corporatism.org',
