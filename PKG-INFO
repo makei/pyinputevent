@@ -1,10 +1,10 @@
 Metadata-Version: 1.0
 Name: pyinputevent
-Version: 0.1b
+Version: 0.1c
 Summary: Python interface to Linux input subsystem
 Home-page: http://blog.corporatism.org/blog/2010/02/
 Author: Robert Thomson
-Author-email: blogcomments.f3c1@corporatism.org
-License: MIT
+Author-email: git@corporatism.org
+License: BSD
 Description: UNKNOWN
 Platform: UNKNOWN
